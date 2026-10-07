@@ -72,7 +72,7 @@ Caso o pacote texlive do Ubuntu 12.04 ainda não esteja instalado digite:
 	$ sudo apt-get update && sudo apt-get install texlive
 
 Outra forma de atualizar o Tex Live é manualmente, conforme descrito na página 
-de [instalação do abntex2 em distribuições GNU/Linux](https://code.google.com/p/abntex2/wiki/InstalacaoLinux#Instala%C3%A7%C3%A3o_manual_a_partir_do_instalador_do_TUG)
+de [instalação do abnTeX2 em distribuições GNU/Linux](https://code.google.com/p/abntex2/wiki/InstalacaoLinux#Instala%C3%A7%C3%A3o_manual_a_partir_do_instalador_do_TUG)
 
 Fonte: https://code.google.com/p/abntex2/wiki/FAQ#Por_que_eu_não_consigo_instalar_o_abnTeX2_no_Ubuntu_12.04_via_a
 
